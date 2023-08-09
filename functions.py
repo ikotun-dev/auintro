@@ -1,5 +1,7 @@
-def add(a, b):
-    return a+b
+def addition_servant(x, y):
+    add  = x + y
+    print(add)
 
-print(add(3,6))
+addition_servant('collins','boy')
+
 

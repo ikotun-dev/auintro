@@ -1,5 +1,4 @@
 age = int(input("Enter your age  : "))
-
 if age > 17 : 
    location = str(input("Enter your location : "))
    if location == "lagos" or "abia":
